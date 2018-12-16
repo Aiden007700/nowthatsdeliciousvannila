@@ -1,4 +1,5 @@
 .env
+.env.now
 .DS_Store
 *.log
 .idea
